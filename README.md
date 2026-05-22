@@ -1,7 +1,8 @@
 # Data-Analyst-
-Data Analyst tools and topics ----
+Data Analyst tools and Technologies----
 
-Excel  ,
-SQL and Relational Databases ,
+Microsoft Excel  ,
+SQL and Relational Databases (MYSQL,POSTGRESQL) ,
 Data visualization & BI tools(Power BI/Tableau),
-Python Basics 
+Python Basics (Pandas, Matplotlib,Seaborn)
+Jupyter notebook/Google colab
